@@ -1,0 +1,23 @@
+@import "tailwindcss";
+
+@keyframes ai-shimmer {
+  0% {
+    background-position: 0% 50%;
+    filter: drop-shadow(0 0 8px rgba(34, 197, 94, 0.18));
+  }
+
+  50% {
+    background-position: 100% 50%;
+    filter: drop-shadow(0 0 18px rgba(56, 189, 248, 0.28));
+  }
+
+  100% {
+    background-position: 0% 50%;
+    filter: drop-shadow(0 0 8px rgba(34, 197, 94, 0.18));
+  }
+}
+
+.ai-shimmer-text {
+  animation: ai-shimmer 5s ease-in-out infinite;
+  background-size: 220% 220%;
+}

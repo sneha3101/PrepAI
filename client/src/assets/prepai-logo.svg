@@ -1,0 +1,31 @@
+<svg width="240" height="240" viewBox="0 0 240 240" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="240" height="240" rx="24" fill="#082B2A"/>
+  <path d="M32 0V240M72 0V240M112 0V240M152 0V240M192 0V240M0 32H240M0 72H240M0 112H240M0 152H240M0 192H240" stroke="#124241" stroke-width="1"/>
+  <g stroke-linecap="round" stroke-linejoin="round">
+    <path d="M65 51L132 34L165 117L126 205L58 187L35 132L65 51Z" stroke="url(#paint0_linear)" stroke-width="4"/>
+    <path d="M65 51L92 122L132 34L110 94L165 117L132 34M35 132L92 122L58 187M92 122L126 205M92 122L110 94L65 51M110 94L158 82M165 117L210 90M165 117L150 168L126 205M150 168L210 90L203 154L126 205" stroke="url(#paint1_linear)" stroke-width="3"/>
+    <path d="M58 187L126 205L203 154" stroke="#15CBB6" stroke-width="3"/>
+  </g>
+  <circle cx="65" cy="51" r="8" fill="#22D99F"/>
+  <circle cx="92" cy="122" r="9" fill="#13C7AA"/>
+  <circle cx="126" cy="205" r="10" fill="#0AB5B5"/>
+  <circle cx="150" cy="168" r="8" fill="#16C7AE"/>
+  <circle cx="210" cy="90" r="6" fill="#26D5AE"/>
+  <circle cx="158" cy="82" r="7" fill="#28D68D"/>
+  <circle cx="43" cy="88" r="8" fill="#21D3A7"/>
+  <circle cx="187" cy="18" r="5" fill="#36DE91"/>
+  <circle cx="205" cy="39" r="5" fill="#37DA99"/>
+  <circle cx="220" cy="58" r="8" fill="#37DE9F"/>
+  <circle cx="198" cy="88" r="10" fill="#24D7A2"/>
+  <circle cx="219" cy="80" r="8" fill="#38D999"/>
+  <defs>
+    <linearGradient id="paint0_linear" x1="35" y1="34" x2="210" y2="205" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38E88F"/>
+      <stop offset="1" stop-color="#06AFC3"/>
+    </linearGradient>
+    <linearGradient id="paint1_linear" x1="35" y1="34" x2="210" y2="205" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#36E68F"/>
+      <stop offset="1" stop-color="#08B7C2"/>
+    </linearGradient>
+  </defs>
+</svg>
